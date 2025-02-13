@@ -58,7 +58,7 @@ GROUP BY 1;
  AS earliest_year,
  MAX(release_year) AS latest_year
 FROM netflix;
-
+```
 
 ### 3. List All Movies Released in a Specific Year (e.g., 2020)
 
